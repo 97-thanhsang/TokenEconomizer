@@ -46,4 +46,6 @@ experiments/figures/
 *.key
 
 # Pi installs this repository as a package and runs `npm install` in its checkout.
-/package-lock.json
+
+# Local runtime data / state
+data/
